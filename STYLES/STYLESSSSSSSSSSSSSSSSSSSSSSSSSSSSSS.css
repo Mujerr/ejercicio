@@ -1,0 +1,44 @@
+.contacto{
+
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color:#C6DDF0 ;
+
+}
+.contacto:hover{
+
+
+background-color: lightblue;
+color:darkblue;
+
+}
+body{
+
+background-color: lightpink;
+
+
+}
+
+.imagen1{
+
+    position: absolute;
+    top: 60px;
+    right: 850px;
+
+
+}
+ .movertextito{
+
+    position: absolute;
+
+    top: 280px;
+
+ }
+
+ H1{
+
+    text-align: center;
+    color: darkmagenta;
+
+ }
